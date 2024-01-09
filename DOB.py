@@ -14,12 +14,12 @@ print("""
   █             █                █     ██████   ██████  ██████     ████   
      
 Creat by ELDOB#7040
-FALLEGA SHOP https://discord.gg/yhHfTrRDMy
+#FALLEGA SHOP https://discord.gg/yhHfTrRDMy
 """)
 print("\033[97m")
 ip= str(input(" ip :"))
 port= int(input(" port :"))
-choice = str(input(" Ddos Attack?? (y/n):"))
+choice = str(input(" ????? (y/n):"))
 times= int(input(" Paket :"))
 threads= int(input(" threads :"))
 def run():
